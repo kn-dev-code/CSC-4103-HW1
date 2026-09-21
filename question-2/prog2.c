@@ -1,3 +1,4 @@
+/* Student: Kyle Netterville */
 #include <stdio.h>
 
 typedef struct funcs {
